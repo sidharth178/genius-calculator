@@ -1,1 +1,1 @@
-# genius-calculator
+# sidharth178.genius-calculator
